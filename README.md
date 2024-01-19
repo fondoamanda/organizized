@@ -1,3 +1,3 @@
 # organizized
-organizize your code
-amanda
+<<<<<<< HEAD
+osökdjkslafjkösaf amanda
